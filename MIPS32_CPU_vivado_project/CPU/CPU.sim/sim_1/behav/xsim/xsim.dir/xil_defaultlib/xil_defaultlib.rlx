@@ -1,0 +1,18 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/MIPS32_CPU/CPU/ALU/ALU.srcs/sources_1/new/ALU.v,1639215367,verilog,,D:/MIPS32_CPU/CPU/CPU.srcs/sources_1/new/CPU.v,,ALU,,,,,,,,
+D:/MIPS32_CPU/CPU/CPU.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+D:/MIPS32_CPU/CPU/CPU.srcs/sim_1/new/CPU_tb.v,1639316587,verilog,,,,CPU_tb,,,,,,,,
+D:/MIPS32_CPU/CPU/CPU.srcs/sources_1/new/CPU.v,1639225976,verilog,,D:/MIPS32_CPU/CPU/Control/Control.srcs/sources_1/new/Control.v,,CPU,,,,,,,,
+D:/MIPS32_CPU/CPU/Control/Control.srcs/sources_1/new/Control.v,1639208298,verilog,,D:/MIPS32_CPU/CPU/DataMem/DataMem.srcs/sources_1/new/DataMem.v,,Control,,,,,,,,
+D:/MIPS32_CPU/CPU/DataMem/DataMem.srcs/sources_1/new/DataMem.v,1639040455,verilog,,D:/MIPS32_CPU/CPU/Extend/Extend.srcs/sources_1/new/Extend.v,,DataMem,,,,,,,,
+D:/MIPS32_CPU/CPU/Extend/Extend.srcs/sources_1/new/Extend.v,1608374325,verilog,,D:/MIPS32_CPU/CPU/HILO/HILO.srcs/sources_1/new/HILO.v,,Extend,,,,,,,,
+D:/MIPS32_CPU/CPU/HILO/HILO.srcs/sources_1/new/HILO.v,1639282360,verilog,,D:/MIPS32_CPU/CPU/InsMem/InsMem.srcs/sources_1/new/InsMem.v,,HILO,,,,,,,,
+D:/MIPS32_CPU/CPU/InsMem/InsMem.srcs/sources_1/new/InsMem.v,1639040498,verilog,,D:/MIPS32_CPU/CPU/InsSub/InsSub.srcs/sources_1/new/InsSub.v,,InsMem,,,,,,,,
+D:/MIPS32_CPU/CPU/InsSub/InsSub.srcs/sources_1/new/InsSub.v,1608375356,verilog,,D:/MIPS32_CPU/CPU/PC/PC.srcs/sources_1/new/PC.v,,InsSub,,,,,,,,
+D:/MIPS32_CPU/CPU/PC/PC.srcs/sources_1/new/PC.v,1639279160,verilog,,D:/MIPS32_CPU/CPU/PCNext/PCNext.srcs/sources_1/new/PCNext.v,,PC,,,,,,,,
+D:/MIPS32_CPU/CPU/PCNext/PCNext.srcs/sources_1/new/PCNext.v,1639225983,verilog,,D:/MIPS32_CPU/CPU/RegGroup/RegGroup.srcs/sources_1/new/RegGroup.v,,PCNext,,,,,,,,
+D:/MIPS32_CPU/CPU/RegGroup/RegGroup.srcs/sources_1/new/RegGroup.v,1639048627,verilog,,D:/MIPS32_CPU/CPU/mux4/mux4.srcs/sources_1/new/mux4.v,,RegGroup,,,,,,,,
+D:/MIPS32_CPU/CPU/mux4/mux4.srcs/sources_1/new/mux4.v,1608543375,verilog,,D:/MIPS32_CPU/CPU/CPU.srcs/sim_1/new/CPU_tb.v,,mux4,,,,,,,,

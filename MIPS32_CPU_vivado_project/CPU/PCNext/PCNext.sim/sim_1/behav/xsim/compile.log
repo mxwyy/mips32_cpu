@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado_project/CPU/PCNext/PCNext.srcs/sources_1/new/PCNext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCNext
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado_project/CPU/PCNext/PCNext.srcs/sim_1/new/PCnext_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCnext_tb

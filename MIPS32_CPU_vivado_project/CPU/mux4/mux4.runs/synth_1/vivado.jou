@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Dec 21 08:30:02 2020
+# Process ID: 30668
+# Current directory: E:/vivado_project/CPU/mux4/mux4.runs/synth_1
+# Command line: vivado.exe -log mux4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux4.tcl
+# Log file: E:/vivado_project/CPU/mux4/mux4.runs/synth_1/mux4.vds
+# Journal file: E:/vivado_project/CPU/mux4/mux4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mux4.tcl -notrace

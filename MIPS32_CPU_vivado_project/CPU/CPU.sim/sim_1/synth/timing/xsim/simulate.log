@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+WARNING: "D:/Xilinx/Vivado/2020.2/data/verilog/src/unisims/LDCE.v" Line 163: Timing violation in scope /CPU_tb/CPU/Control/Op_reg[2]/TChk163_33268 at time 247834 ps $setuphold (posedge G,negedge D,(0:0:0),(0:0:0),notifier,in_clk_enable_p,in_clk_enable_p,G_dly,D_dly) 

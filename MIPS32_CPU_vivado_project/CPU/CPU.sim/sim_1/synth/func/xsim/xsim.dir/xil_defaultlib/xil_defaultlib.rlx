@@ -1,0 +1,6 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/MIPS32_CPU/CPU/CPU.sim/sim_1/synth/func/xsim/CPU_tb_func_synth.v,1639315035,verilog,,D:/MIPS32_CPU/CPU/CPU.srcs/sim_1/new/CPU_tb.v,,ALU;CPU;Control;DataMem;HILO;PC;PCNext;RegGroup;glbl;mux4,,,,,,,,
+D:/MIPS32_CPU/CPU/CPU.srcs/sim_1/new/CPU_tb.v,1639225271,verilog,,,,CPU_tb,,,,,,,,

@@ -1,0 +1,13 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MIPS32_CPU/CPU/CPU.sim/sim_1/synth/func/xsim/CPU_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-311] analyzing module DataMem
+INFO: [VRFC 10-311] analyzing module HILO
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module PCNext
+INFO: [VRFC 10-311] analyzing module RegGroup
+INFO: [VRFC 10-311] analyzing module mux4
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MIPS32_CPU/CPU/CPU.srcs/sim_1/new/CPU_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU_tb

@@ -1,0 +1,290 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+curPC is
+         0
+curPC is
+         4
+curPC is
+         8
+curPC is
+        12
+curPC is
+        16
+curPC is
+        20
+curPC is
+        24
+curPC is
+        28
+curPC is
+        32
+curPC is
+        36
+curPC is
+        40
+curPC is
+        44
+curPC is
+        48
+curPC is
+        52
+curPC is
+        56
+curPC is
+        60
+curPC is
+        64
+curPC is
+        68
+curPC is
+        72
+curPC is
+        76
+curPC is
+        80
+curPC is
+        84
+curPC is
+        88
+curPC is
+        92
+curPC is
+        96
+curPC is
+       100
+curPC is
+       104
+curPC is
+       108
+curPC is
+       112
+curPC is
+       116
+curPC is
+       120
+curPC is
+       124
+curPC is
+       128
+curPC is
+       132
+curPC is
+       136
+curPC is
+       140
+curPC is
+       144
+curPC is
+       148
+curPC is
+       152
+curPC is
+       156
+curPC is
+       160
+curPC is
+       168
+abs=0 abs=0
+
+abs=0 abs=0
+
+curPC is
+       172
+abs=-12140440890 abs=-12140440890
+
+curPC is
+       176
+curPC is
+       180
+curPC is
+       184
+curPC is
+       188
+curPC is
+       192
+curPC is
+       196
+curPC is
+       200
+curPC is
+       204
+curPC is
+       208
+curPC is
+       212
+curPC is
+       216
+curPC is
+       220
+curPC is
+       224
+curPC is
+       228
+curPC is
+       240
+curPC is
+       248
+curPC is
+       252
+curPC is
+       264
+curPC is
+       268
+curPC is
+       276
+curPC is
+       280
+curPC is
+       288
+curPC is
+       292
+curPC is
+       300
+curPC is
+       304
+reg is 17, Regdata is 00000000
+
+reg is 17, Regdata is 00000000
+
+reg is 17, Regdata is 00000000
+
+reg is 17, Regdata is 00000000
+
+reg is 17, Regdata is 00000000
+
+WriteData is ac559669, WriteReg is 17
+
+curPC is
+       312
+reg is 17, Regdata is ac559669
+
+curPC is
+       316
+reg is 17, Regdata is ac559669
+
+curPC is
+       320
+reg is 17, Regdata is ac559669
+
+curPC is
+       324
+reg is 17, Regdata is ac559669
+
+reg is 17, Regdata is ac559669
+
+WriteData is 69000000, WriteReg is 17
+
+curPC is
+       328
+reg is 17, Regdata is 69000000
+
+WriteData is 96690000, WriteReg is 17
+
+curPC is
+       332
+reg is 17, Regdata is 96690000
+
+WriteData is ac559669, WriteReg is 17
+
+curPC is
+       336
+curPC is
+       340
+curPC is
+       344
+curPC is
+       348
+curPC is
+       352
+curPC is
+       356
+curPC is
+       360
+curPC is
+       364
+curPC is
+       368
+curPC is
+       372
+curPC is
+       376
+curPC is
+       380
+curPC is
+       384
+curPC is
+       388
+curPC is
+       392
+curPC is
+       396
+curPC is
+       400
+curPC is
+       404
+curPC is
+       408
+curPC is
+       412
+curPC is
+       416
+curPC is
+       420
+curPC is
+       424
+curPC is
+       428
+curPC is
+       432
+curPC is
+       436
+curPC is
+       440
+curPC is
+       444
+curPC is
+       448
+curPC is
+       452
+curPC is
+       456
+curPC is
+       460
+curPC is
+       464
+curPC is
+       468
+curPC is
+       472
+curPC is
+       476
+curPC is
+       480
+curPC is
+       484
+curPC is
+       488
+curPC is
+       492
+curPC is
+       496
+curPC is
+       500
+curPC is
+       504
+curPC is
+       508
+curPC is
+       512
+curPC is
+       516
+curPC is
+       520
+curPC is
+       524
+curPC is
+       528
+curPC is
+       532
+curPC is
+       536

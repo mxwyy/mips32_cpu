@@ -1,0 +1,25 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MIPS32_CPU/CPU/CPU.sim/sim_1/impl/timing/xsim/CPU_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM32M_UNIQ_BASE_
+INFO: [VRFC 10-311] analyzing module RAM32M_HD23
+INFO: [VRFC 10-311] analyzing module RAM32M_HD24
+INFO: [VRFC 10-311] analyzing module RAM32M_HD25
+INFO: [VRFC 10-311] analyzing module RAM32M_HD26
+INFO: [VRFC 10-311] analyzing module RAM32M_HD27
+INFO: [VRFC 10-311] analyzing module RAM32M_HD28
+INFO: [VRFC 10-311] analyzing module RAM32M_HD29
+INFO: [VRFC 10-311] analyzing module RAM32M_HD30
+INFO: [VRFC 10-311] analyzing module RAM32M_HD31
+INFO: [VRFC 10-311] analyzing module RAM32M_HD32
+INFO: [VRFC 10-311] analyzing module RAM32M_HD33
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-311] analyzing module DataMem
+INFO: [VRFC 10-311] analyzing module HILO
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module PCNext
+INFO: [VRFC 10-311] analyzing module RegGroup
+INFO: [VRFC 10-311] analyzing module mux4
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MIPS32_CPU/CPU/CPU.srcs/sim_1/new/CPU_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU_tb

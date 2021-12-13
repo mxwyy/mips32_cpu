@@ -28,7 +28,8 @@
 
 ## 结构图
 
-![cpu](https://github.com/mxwyy/mips32_cpu/raw/main/png/cpu.png)
+![cpu](https://github.com/mxwyy/mips32_cpu/raw/main/png/cpu.png)  
+
 (部分控制信号没有画，要不图片太乱。然后PCNext模块是PC右边这一部分，没有单独画出来)
 
 ## 控制信号
